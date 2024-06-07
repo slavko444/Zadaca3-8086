@@ -36,6 +36,7 @@ OVDE_CODE ENDS
 END 
 
 ```
+ ![Screenshot (1)](https://github.com/slavko444/Zadaca3-8086/blob/main/Zadaca3%208086%20code.png)
  
 **Develop by:**
 
